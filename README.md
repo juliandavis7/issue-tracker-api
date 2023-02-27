@@ -1,15 +1,15 @@
-# udemy-backend
+# issue-tracker-api
 
 ## Steps to run the example app on local environment:
-1. Clone this repository: `https://github.com/juliandavis7/udemy-backend.git`
+1. Clone this repository: `https://github.com/juliandavis7/issue-tracker-api.git`
 
-2. `cd udemy-backend`
+2. `cd issue-tracker-api`
 
 3. Start a postgres container: `docker run --name hutemplatedb -e POSTGRES_PASSWORD=python -e POSTGRES_DB=python -e POSTGRES_USER=python -p 5432:5432 -d postgres:13.2`  
 
     (You can verify if container is running using `docker ps`)
 
-4. In the root directory of project 'udemy-backend', create a new virtual environment: `python3 -m venv venv`
+4. In the root directory of project 'issue-tracker-api', create a new virtual environment: `python3 -m venv venv`
 
 5. Activate the virtual environment:
 - Windows: `./venv/Scripts/activate`

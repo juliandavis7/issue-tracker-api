@@ -1,7 +1,7 @@
 # udemy-backend
 
 ## Steps to run the example app on local environment:
-1. Clone this repository: `git clone git@github.com:Deloitte/hu-22-python-master.git`
+1. Clone this repository: `https://github.com/juliandavis7/udemy-backend.git`
 
 2. `cd udemy-backend`
 
